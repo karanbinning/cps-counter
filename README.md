@@ -1,2 +1,2 @@
 # cps-counter
-a cps counter with anti-cheat
+A clicks-per-second counter with an anti-cheat that checks for inconsistencies.
